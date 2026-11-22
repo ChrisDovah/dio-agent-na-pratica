@@ -80,16 +80,21 @@ Objetivo: [tirar uma ideia do papel].
 
 ### Estudar
 
-_Cole o print da explicação._
+<img width="1546" height="813" alt="image" src="https://github.com/user-attachments/assets/8ad29050-004d-4ff5-a50c-bb6b06aec66a" />
 
 ### Praticar
 
-_Cole o print da dica que destravou você._
+<img width="1617" height="842" alt="image" src="https://github.com/user-attachments/assets/8654c395-bbb0-4589-8780-de6b5255e3ed" />
+
+<img width="1374" height="694" alt="image" src="https://github.com/user-attachments/assets/c1c39d67-82ec-4d90-8a71-0edf1197fab2" />
+
 
 ### Planejar
 
-_Cole o print do seu plano de estudos._
+<img width="1104" height="723" alt="image" src="https://github.com/user-attachments/assets/e819050b-25a7-4740-939a-dfe0655c97df" />
 
 ### Como foi para você
 
-_Conte em poucas linhas como foi usar o DIO Agent pela primeira vez._
+Foi minha primeira experiência "instalando" um agente e utilizando o Google Antigravity, e posso afirmar que foi uma experiência positiva!
+
+O método que o agente usa na skill de estudos é muito interessante, bem parecido com o "tutor socrático". É uma das melhores formas de destravar e ao mesmo tempo forçar o aluno a pensar e raciocinar por contra própria
