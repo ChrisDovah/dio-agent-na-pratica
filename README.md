@@ -74,11 +74,9 @@ Objetivo: [tirar uma ideia do papel].
 
 ## Minha entrega
 
-Edite este README pelo lápis, role até aqui e cole (Ctrl+V) um print de cada passo, sem dados pessoais.
-
 ### Configure
 
-_Cole o print do DIO Agent se apresentando._
+<img width="731" height="396" alt="image" src="https://github.com/user-attachments/assets/a916032b-0ac8-4680-b746-5850770de798" />
 
 ### Estudar
 
